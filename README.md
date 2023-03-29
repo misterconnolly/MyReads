@@ -8,20 +8,15 @@ This was a project assignment for the Udacity React Nanodegree program, demonstr
 - Hooks
 - Managing App Location with React Router
 
-## Install and Run
+## Installation and Running
 
 To run this project:
 
+- Clone this repository
+- Open a command shell in the `/solution` folder
 - Install all project dependencies with `npm install`
 - Start the development server with `npm start`
-- A browser should open, displaying the app on [http://localhost:3000/](http://localhost:3000/)
+- A browser should open, displaying [http://localhost:3000/](http://localhost:3000/)
 
 ## What You Get
-
-
-
-
-
-
-
 
