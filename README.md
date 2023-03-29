@@ -19,9 +19,9 @@ To run this project:
 - A browser should open, displaying [http://localhost:3000/](http://localhost:3000/)
 
 ## What You Get
-- Books on your bookshelf
+### Books on your bookshelf
 ![Books being read](https://github.com/misterconnolly/MyReads/blob/main/screenshots/MyReads_01.png?raw=true)
 ![Want to read and read](https://github.com/misterconnolly/MyReads/blob/main/screenshots/MyReads_02.png?raw=true)
 
-- Search for new books
+### Search for new books
 ![Search for new books](https://github.com/misterconnolly/MyReads/blob/main/screenshots/MyReads_03.png?raw=true)
