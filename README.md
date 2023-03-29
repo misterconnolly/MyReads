@@ -13,7 +13,7 @@ This was a project assignment for the Udacity React Nanodegree program, demonstr
 To run this project:
 
 - Clone this repository
-- Open a command shell in the `/solution` folder
+- Open the `solution` folder in a command shell
 - Install all project dependencies with `npm install`
 - Start the development server with `npm start`
 - A browser should open, displaying [http://localhost:3000/](http://localhost:3000/)
