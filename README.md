@@ -8,7 +8,7 @@ This was a project assignment for the Udacity React Nanodegree program, demonstr
 - Hooks
 - Managing App Location with React Router
 
-## TL;DR
+## Install and Run
 
 To run this project:
 
@@ -18,9 +18,6 @@ To run this project:
 
 ## What You Get
 
-
-
-## What You're Getting
 
 
 
