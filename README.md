@@ -2,7 +2,7 @@
 
 This is a bookshelf app that allows you to select and categorize books you have read, are currently reading, or want to read. 
 
-This was a project assignment for the Udacity React Nanodegree program, demonstrating following React concepts:
+This was a project assignment for the Udacity React Nanodegree program, which demonstrates the following:
 - UI Rendering with JSX
 - State Management
 - Hooks
